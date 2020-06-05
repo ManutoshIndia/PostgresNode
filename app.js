@@ -1,3 +1,4 @@
+//POC project base
 const express = require('express');
 const { Client } = require('pg');
 const connectionString = 'postgres://postgres:Pass2020!@localhost:5432/postgres';
